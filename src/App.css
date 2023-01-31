@@ -1,0 +1,6 @@
+@media (max-width:410px) {
+    .phone {
+    display: grid !important;
+    grid-template-columns: repeat(1, 1fr) !important;
+    }
+}
